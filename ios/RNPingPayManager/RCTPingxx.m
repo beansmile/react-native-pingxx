@@ -8,8 +8,8 @@
 
 #import "RCTPingxx.h"
 #import "Pingpp.h"
-#import "RCTEventDispatcher.h"
-#import "RCTBridge.h"
+#import <React/RCTEventDispatcher.h>
+#import <React/RCTBridge.h>
 
 static NSString *gScheme = @"";
 
